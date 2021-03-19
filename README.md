@@ -24,7 +24,7 @@ yarn start
 > in a second terminal window:
 
 ```bash
-cd simple-nft-example
+cd nft-market-project
 yarn chain
 
 ```
@@ -32,7 +32,7 @@ yarn chain
 > in a third terminal window:
 
 ```bash
-cd simple-nft-example
+cd nft-market-project
 yarn deploy
 
 ```
