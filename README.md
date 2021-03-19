@@ -10,14 +10,6 @@ required: [Node](https://nodejs.org/dist/latest-v12.x/) plus [Yarn](https://clas
 
 
 ```bash
-git clone https://github.com/austintgriffith/scaffold-eth.git simple-nft-example
-
-cd simple-nft-example
-
-git checkout simple-nft-example
-```
-
-```bash
 
 yarn install
 
